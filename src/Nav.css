@@ -1,0 +1,15 @@
+.app-shell{
+  
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  background-color: #121f1f;
+  color: white;
+  font-size: 2rem;
+
+
+}
